@@ -59,6 +59,9 @@ def longest_palindromic(text):
                 max_pal.append(substr)
     return max(longest, key=len)
 
+# solution 5: Most efficient O(n)
+
+
 
 if __name__ == '__main__':
 
