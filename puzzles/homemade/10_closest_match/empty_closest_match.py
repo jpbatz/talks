@@ -31,3 +31,6 @@
 #         /usr/share/dict/words on a Mac
 
 # Put your code here:
+
+print("hello")
+a = 4
